@@ -1,4 +1,12 @@
-### Hi there 👋
+
+![A cover image that says "Hi I'm Saurabh" in the center. On left, there's a cartoon character representing saurabh who is holding sunflower in his one hand](https://res.cloudinary.com/garvitjoshi9/image/upload/v1594407409/1_2_myeqsz.jpg)
+## Garvit Joshi (he/him) 🌻
+
+I lovee open-source! On my GitHub, You will find many C++ repository and my projects. I am currently working on a project that can save your passwords with AES-256 bit Encryption [@Password-Store](https://github.com/garvit-joshi/Password-Store) 
+
+
+
+
 
 <!--
 **garvit-joshi/garvit-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
