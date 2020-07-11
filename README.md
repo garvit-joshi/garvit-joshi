@@ -4,7 +4,8 @@
 
 I lovee open-source! On my GitHub, You will find many C++ repository and my projects. I am currently working on a project that can save your passwords with AES-256 bit Encryption [@Password-Store](https://github.com/garvit-joshi/Password-Store) 
 
-
+#### Fun fact: Kids ask 300 questions a day, I can ask 301. <br>
+#### Not So fun fact: I am not good with whiteboard coding.
 
 
 
