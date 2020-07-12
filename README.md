@@ -7,7 +7,7 @@ I lovee open-source! On my GitHub, You will find many C++ repository and my proj
 #### Fun fact: Kids ask 300 questions a day, I can ask 301. <br>
 #### Not So fun fact: I am not good with whiteboard coding.
 
-[![Garvit's github stats](https://github-readme-stats.vercel.app/api?username=garvit-joshi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Garvit's github stats](https://github-readme-stats.vercel.app/api?username=garvit-joshi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me around the web 🌎:
 
