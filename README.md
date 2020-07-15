@@ -11,8 +11,13 @@ I lovee open-source! On my GitHub, You will find many C++ repository and my proj
 
 ## Find me around the web 🌎:
 
-[Twitter](https://twitter.com/garvit__joshi) <br>
-[Instagram](https://www.instagram.com/garvitjoshi99/)
+[![Twitter Badge](https://img.shields.io/badge/-@garvit__joshi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/garvit__joshi)](https://twitter.com/garvit__joshi) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Garvit__Joshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garvit--joshi/)](https://www.linkedin.com/in/garvit--joshi/) 
+
+[![Gmail Badge](https://img.shields.io/badge/-garvitjoshi9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garvitjoshi9@gmail.com)](mailto:garvitjoshi9@gmail.com)
+
+
 
 <!--
 **garvit-joshi/garvit-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
