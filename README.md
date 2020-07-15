@@ -11,6 +11,9 @@ I lovee open-source! On my GitHub, You will find many C++ repository and my proj
 
 ## Find me around the web 🌎:
 
+[Twitter](https://twitter.com/garvit__joshi)
+[Instagram](https://www.instagram.com/garvitjoshi99/)
+
 <!--
 **garvit-joshi/garvit-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
