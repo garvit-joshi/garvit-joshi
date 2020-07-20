@@ -1,5 +1,5 @@
 
-![A cover image that says "Hi I'm Garvit, Welcome wo my home in the web.". On left, there's a cartoon character representing Me wearing a Red Sweatshirt.](https://res.cloudinary.com/garvitjoshi9/image/upload/v1594837289/Git-Hub/Updated-Github-PixTeller_dexggl.png)
+![A cover image that says "Hi I'm Garvit, Welcome to my home in the web.". On left, there's a cartoon character representing Me wearing a Red Sweatshirt.](https://res.cloudinary.com/garvitjoshi9/image/upload/v1594837289/Git-Hub/Updated-Github-PixTeller_dexggl.png)
 ## Garvit Joshi <img src="https://res.cloudinary.com/garvitjoshi9/image/upload/v1594837871/Git-Hub/hehim_p4sel7.svg" > 🌻
 
 I lovee open-source! On my GitHub, You will find many C++ repository and my projects. I am currently working on a project that can save your passwords with AES-256 bit Encryption [@Password-Store](https://github.com/garvit-joshi/Password-Store) 
