@@ -21,4 +21,6 @@ If you are new to Java and want to start from basics you may learn through some 
 [![Gmail Badge](https://img.shields.io/badge/-garvitjoshi009@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garvitjoshi009@gmail.com)](mailto:garvitjoshi009@gmail.com)          
 [![Outlook Badge](https://img.shields.io/badge/-garvit.11808472@lpu.in-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:garvit.11808472@lpu.in)](mailto:garvit.11808472@lpu.in)
 
+
+#### Here is my friend Jetix:
 ![Jetix-My Trex friend](https://raw.githubusercontent.com/garvit-joshi/garvit-joshi/master/dino.gif)
