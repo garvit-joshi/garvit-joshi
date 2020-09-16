@@ -11,7 +11,7 @@ If you are new to Java and want to start from basics you may learn through some 
 
 ![Garvit's github stats](https://github-readme-statss.vercel.app/api?username=garvit-joshi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-## Find me around the web 🌎:
+## Find me around the web 🌎: <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 [![Twitter Badge](https://img.shields.io/badge/-@garvit__joshi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/garvit__joshi)](https://twitter.com/garvit__joshi) 
 
