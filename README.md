@@ -9,7 +9,7 @@ If you are new to Java and want to start from basics you may learn through some 
 #### Fun fact: Kids ask 300 questions a day, I can ask 301. <br>
 #### Not So fun fact: I am not good with whiteboard coding.
 
-![Garvit's github stats](https://github-readme-statss.vercel.app/api?username=garvit-joshi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Garvit's github stats](https://github-readme-statss.vercel.app/api?username=garvit-joshi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## Find me around the web 🌎: <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
