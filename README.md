@@ -25,4 +25,4 @@ If you are new to Java and want to start from basics you may learn through some 
 #### Here is my friend Jetix:
 ![Jetix-My Trex friend](https://raw.githubusercontent.com/garvit-joshi/garvit-joshi/master/dino.gif)
 
- If you wanna discuss stuff around web or ask me anything use this [link](https://github.com/garvit-joshi/garvit-joshi/issues/new).
+ If you wanna discuss stuff around web or ask me anything use this [link](https://github.com/garvit-joshi/garvit-joshi/issues/new) or Direct Message me on [Instagram](https://www.instagram.com/garvit_._/).
