@@ -26,3 +26,5 @@ If you are new to Java and want to start from basics you may learn through some 
 ![Jetix-My Trex friend](https://raw.githubusercontent.com/garvit-joshi/garvit-joshi/master/dino.gif)
 
  If you wanna discuss stuff around web or ask me anything use this [link](https://github.com/garvit-joshi/garvit-joshi/issues/new) or Direct message me on [Instagram](https://www.instagram.com/garvit_._/).
+
+<a href="https://github.com/garvit-joshi"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
