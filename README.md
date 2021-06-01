@@ -7,7 +7,7 @@ I lovee open-source! On my GitHub, You will find many repositories in C++, Java,
 If you are new to Java and want to start from basics you may learn through some codes I made for basic Understanding of Java [@Learn_Java](https://github.com/garvit-joshi/Learn_Java)
 
 #### Fun fact: Kids ask 300 questions a day, I can ask 301. <br>
-#### Not So fun fact: I am not good with whiteboard coding.
+#### Not So fun fact: I yell at computers until they work.
 
 ![Garvit's github stats](https://github-readme-stats.vercel.app/api?username=garvit-joshi&show_icons=true&title_color=fff&icon_color=79ff96&text_color=9f9f9f&bg_color=151516)
 
