@@ -2,7 +2,7 @@
 ![A cover image that says "Hi I'm Garvit, Welcome to my home in the web.". On left, there's a cartoon character representing me wearing a Red Sweatshirt.](https://res.cloudinary.com/garvitjoshi9/image/upload/v1594837289/Git-Hub/Updated-Github-PixTeller_dexggl.png)
 ## Garvit Joshi <img src="https://res.cloudinary.com/garvitjoshi9/image/upload/v1594837871/Git-Hub/hehim_p4sel7.svg" > <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">
 
-I lovee open-source! On my GitHub, You will find many repositories in C++, Java, Python, Shell, Batch. I am currently working on a [@Ada_TelegramBot](https://github.com/AWS-Cloud-Community-LPU/Ada_TelegramBot) that is made possible by Python.
+I lovee open-source! On my GitHub, You will find many repositories in C++, Java, Python, Shell, Batch. I am currently working on a [@Aster_TelegramBot](https://github.com/garvit-joshi/Aster_TelegramBot) that is made possible by Python.
 
 If you are new to Java and want to start from basics you may learn through some codes I made for basic Understanding of Java [@Learn_Java](https://github.com/garvit-joshi/Learn_Java)
 
