@@ -16,8 +16,7 @@ On my GitHub, You will find many repositories in C++, Java, Python, Shell, Batch
 [![Linkedin Badge](https://img.shields.io/badge/-Garvit__Joshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garvit--joshi/)](https://www.linkedin.com/in/garvit--joshi/) 
 
 [![Gmail Badge](https://img.shields.io/badge/-garvitjoshi9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garvitjoshi9@gmail.com)](mailto:garvitjoshi9@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-garvitjoshi009@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garvitjoshi009@gmail.com)](mailto:garvitjoshi009@gmail.com)          
-[![Outlook Badge](https://img.shields.io/badge/-garvit.11808472@lpu.in-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:garvit.11808472@lpu.in)](mailto:garvit.11808472@lpu.in)
+[![Gmail Badge](https://img.shields.io/badge/-garvitjoshi009@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garvitjoshi009@gmail.com)](mailto:garvitjoshi009@gmail.com) 
 
  If you wanna discuss stuff around web or ask me anything use this [link](https://github.com/garvit-joshi/garvit-joshi/issues/new) or Direct message me on [Instagram](https://www.instagram.com/garvit_._/).
 
