@@ -19,10 +19,6 @@ On my GitHub, You will find many repositories in C++, Java, Python, Shell, Batch
 [![Gmail Badge](https://img.shields.io/badge/-garvitjoshi009@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garvitjoshi009@gmail.com)](mailto:garvitjoshi009@gmail.com)          
 [![Outlook Badge](https://img.shields.io/badge/-garvit.11808472@lpu.in-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:garvit.11808472@lpu.in)](mailto:garvit.11808472@lpu.in)
 
-
-#### Here is my friend Jetix:
-![Jetix-My Trex friend](https://raw.githubusercontent.com/garvit-joshi/garvit-joshi/master/dino.gif)
-
  If you wanna discuss stuff around web or ask me anything use this [link](https://github.com/garvit-joshi/garvit-joshi/issues/new) or Direct message me on [Instagram](https://www.instagram.com/garvit_._/).
 
 <a href="https://github.com/garvit-joshi"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
