@@ -4,7 +4,7 @@ I'm a Software Engineer who enjoys working on systems where every millisecond co
 
 In Fall 2025, I found myself drawn to open source and started contributing to projects I use and admire. So far, I've been lucky to get a couple of contributions into [Spring Security](https://github.com/spring-projects/spring-security/pull/18235) and [Spring Boot](https://github.com/spring-projects/spring-boot/pull/48967) -- fixing a thread-safety bug and adding SSL truststore visibility. It's been a great way to learn from some really talented people.
 
-I also built [Locksmith](https://github.com/riido-git/locksmith), a small Redis-based distributed locking starter for Spring Boot, which somehow made it to Maven Central.
+I also built [Locksmith](https://github.com/riido-git/locksmith), a small Redis-based distributed locking starter for Spring Boot, which somehow made it to Maven Central. More recently, I made [jskim](https://github.com/garvit-joshi/jskim) -- a token-saving Java file reader for Claude Code that uses tree-sitter to summarize Java files compactly, cutting 70-80% of input tokens. It started from a simple itch: reading large Spring Boot codebases with an LLM was burning through context way too fast. It's on [PyPI](https://pypi.org/project/jskim/) now and works as a Claude Code skill.
 
 I'm always trying to pick up something new -- whether that's a technology, a concept, or just a different way of thinking. Right now, I'm reading *Sapiens: A Brief History of Humankind* by Yuval Noah Harari, which has been giving me a lot to think about beyond code.
 
